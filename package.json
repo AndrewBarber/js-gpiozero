@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "rwlock": "5.0.0",
-    "wiring-pi": "git+https://github.com/kohei0302/WiringPi-Node.git"
+    "wiring-pi": "git+https://github.com/WiringPi/WiringPi-Node.git"
   },
   "devDependencies": {
     "chai": "3.5.0",
